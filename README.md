@@ -43,8 +43,8 @@ LeNet(
 
 ### 3.1优化器设置
 
-* **优化器：**AdamW
-* **学习率：**0.001
+* **优化器：** AdamW
+* **学习率：** 0.001
 * **weight_decay**: 1e-4
 
 ### 3.2损失函数
@@ -80,3 +80,4 @@ CrossEntropyLoss
 ## 5. 测试集结果
 
 ![image-20251030193539692](C:\Users\JiangChaoli\AppData\Roaming\Typora\typora-user-images\image-20251030193539692.png)
+
